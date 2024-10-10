@@ -8,8 +8,8 @@ Esse projeto foi desenvolvido para servir como um auxiliar para criar uma lista 
 
 - Cadastrar produtos à ser comprados por tipo
 - Armazenar os produtos cadastrados 
-- Cria uma lista de compras
-- Remove itens da lista
+- Criar uma lista de compras
+- Remover itens da lista
 
 ## 👾 Tecnologias utilizadas 
 <div align="center">
