@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido através do editor de códigos VSCode, e com as te
 Para instalação do VSCode visite o site https://code.visualstudio.com/
 
 ## 🔮 Implementações futuras
-1. Criar uma função para procurar na lista e retornar se há ou não o elemento a ser removido, corrigindo o programa.
+1. Criar uma função para procurar na lista e retornar se há ou não o elemento a ser removido, corrigindo possíveis erros no código.
 
 ## 🔎 Status do Projeto
 
